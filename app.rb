@@ -17,4 +17,3 @@ end
     erb :checkout
       end
   end
-end
